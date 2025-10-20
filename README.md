@@ -36,3 +36,5 @@ This project builds a hierarchical deep learning model to classify breast cancer
 📊 Results
 
 - The model demonstrates strong performance in identifying cancerous tissues, particularly through hierarchical classification, which improves interpretability and diagnostic precision.
+
+You can view the full notebook Here: https://www.kaggle.com/code/arafatsani/breast-cancer-class-with-densenet121-and-grad-cam
